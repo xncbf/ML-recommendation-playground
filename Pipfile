@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 transformers = "==4.28.1"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
 
 [dev-packages]
 
